@@ -8,7 +8,7 @@
 
 - **Classy Mint & Slate UI**: Beautifully designed custom theme with soft off-white cards and mint green accents.
 - **Native Light/Dark Mode**: Fully supports seamless toggling between a crisp light mode and a deep, immersive dark mode.
-- **Dynamic Grid Tracker**: A GitHub-style monthly grid to instantly log your habit completions with a single click.
+- **Dynamic Grid Tracker**: A GitHub-style monthly grid to instantly log your habit completions with a single click. 
 - **Interactive Analytics**: View comprehensive performance data including Monthly Success Rates, Completion by Habit (Bar Charts), Daily Trends (Line Graphs), and Target Goals (Donut Charts).
 - **Time Travel**: Effortlessly browse through your habit history by sliding between past and future months.
 - **Secure Authentication**: Fully encrypted password storage and JWT-based user sessions so your tracking remains private.
